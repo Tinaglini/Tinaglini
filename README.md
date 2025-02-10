@@ -5,8 +5,8 @@
 > Desenvolvedor Full Stack & Entusiasta de Tecnologia que ama transformar café em código ☕
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&bg_color=ffffff&hide_border=true&title_color=ee52d2&text_color=8e68e6&icon_color=b03b9c" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&layout=compact&bg_color=ffffff&hide_border=true&title_color=ee52d2&text_color=8e68e6" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&bg_color=0D1117&hide_border=true&title_color=ee52d2&text_color=ffffff&icon_color=b03b9c" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&layout=compact&bg_color=0D1117&hide_border=true&title_color=ee52d2&text_color=ffffff" height="180em"/>
 </div>
 
 ### Sobre mim 🚀
@@ -47,24 +47,24 @@ const lucas = {
 
 <div> 
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ee52d2?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=ee52d2" target="_blank">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Discord-8e68e6?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Discord-0D1117?style=for-the-badge&logo=discord&logoColor=8e68e6" target="_blank">
   </a>
   <a href="#" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-b03b9c?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-0D1117?style=for-the-badge&logo=gmail&logoColor=b03b9c" target="_blank">
   </a>
 </div>
 
 <div align="center">
   <br>
-  <img src="https://github-profile-trophy.vercel.app/?username=Lucas&theme=alduin&no-frame=true&no-bg=true&row=1&column=7&title_color=ee52d2&icon_color=ffe542" width="100%" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Lucas&theme=discord&no-frame=true&no-bg=true&row=1&column=7" width="100%" />
 </div>
 
 ---
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Lucas&color=ee52d2" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=Lucas&color=ee52d2&bg_color=0D1117" alt="Profile views"/>
 
 > "O código é poesia em lógica" 🚀
 </div>
