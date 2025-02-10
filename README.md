@@ -1,4 +1,4 @@
-<img width="100%" height="480px" src="https://i.imgur.com/3o8hgAP.gif" alt="banner animado"/>
+<img width="100%" height="480px" src="https://i.imgur.com/OVTBUhQ.png" alt="banner animado"/>
 
 ## Olá, eu sou o Lucas! 👋
 
