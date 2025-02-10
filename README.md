@@ -1,5 +1,3 @@
-<img width="100%" height="480px" src="https://i.imgur.com/OVTBUhQ.png" alt="banner animado"/>
-
 ## Olá, eu sou o Lucas! 👋
 
 > Desenvolvedor Full Stack & Entusiasta de Tecnologia que ama transformar café em código ☕
