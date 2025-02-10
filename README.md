@@ -69,4 +69,4 @@ const lucas = {
 > "O código é poesia em lógica" 🚀
 </div>
 
-![Snake animation](https://github.com/{Tinaglini}/{Tinaglini}/blob/output/snake.svg)
+![Snake animation](https://github.com/Tinaglini/Tinaglini/blob/output/snake.svg)
