@@ -3,8 +3,9 @@
 > Desenvolvedor Full Stack & Entusiasta de Tecnologia que ama transformar café em código ☕
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&bg_color=0D1117&hide_border=true&title_color=ee52d2&text_color=ffffff&icon_color=b03b9c" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&layout=compact&bg_color=0D1117&hide_border=true&title_color=ee52d2&text_color=ffffff" height="180em"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Lucas&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=00ff95&text_color=ffffff&icon_color=00ff95" height="180em"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=00ff95&text_color=ffffff" height="180em"/>
 </div>
 
 ### Sobre mim 🚀
