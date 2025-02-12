@@ -69,6 +69,3 @@ const lucas = {
 
 ![Snake animation](https://github.com/Tinaglini/Tinaglini/blob/output/snake.svg)
 
-
-
-VC CONSEGUE EDITAR O STATS DO GITHUB?
